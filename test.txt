@@ -1,0 +1,9 @@
+60
+-- graphics 1 marks
+-- invalid move
+-- help() Hard Code
+-- enchantment +2/+2 *2/*2
+-- default deck
+-- testing mode
+-- single card
+-- Trigger
