@@ -4,27 +4,21 @@ Alchemy_Card is a collectible card game that is similar to Hearthstone. It is pl
 
 ## Getting Started
 
-Click the clone and compile using g++ -std=c++14
+Click the clone and compile using make command.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Explain how to run the automated tests for this system.
 
 ### Break down into end to end tests
 
 Explain what these tests test and why
 
 ```
-Give an example
+Please follow the game instructions in game display.
 ```
 
 ### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
