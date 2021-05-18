@@ -1,6 +1,6 @@
-# Sorcery-CS246
+# Alchemy_Card
 
-Sorcery is the final project for CS246 in Spring 2019. It is a collectible card game that is similar to Hearthstone. It is played on the terminal, with commands issued via standard input or supplied from a file and output printed to standard output.
+Alchemy_Card is a collectible card game that is similar to Hearthstone. It is played on the terminal, with commands issued via standard input or supplied from a file and output printed to standard output.
 
 ## Getting Started
 
@@ -48,7 +48,3 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Not allowed to use in CS246 in any form
-* Not allowed to sell or earn any profit
